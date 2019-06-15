@@ -1,0 +1,32 @@
+{
+  "name": "backpack",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "backpack-react-scripts": "7.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "bpk-component-button": "^2.3.11",
+    "bpk-component-card": "^1.1.84",
+    "bpk-component-code": "^1.1.74",
+    "bpk-component-icon": "^3.30.6",
+    "bpk-component-panel": "^1.0.133",
+    "bpk-component-text": "^1.0.130",
+    "bpk-mixins": "^17.23.6",
+    "bpk-stylesheets": "^3.2.178",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}

@@ -1,0 +1,11 @@
+.blue-header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    background-color: #00B2D6;
+    height: 120px;
+    color: white;
+    padding: 24px;
+    font-size: 61px;
+}
